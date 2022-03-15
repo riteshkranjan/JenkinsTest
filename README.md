@@ -1,2 +1,2 @@
 # JenkinsTest
-else = something
+password = something
